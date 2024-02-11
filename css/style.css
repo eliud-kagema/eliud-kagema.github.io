@@ -10,6 +10,10 @@ header {
   color: #fff;
   text-align: center;
   padding: 1em 0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+
 }
 
 
@@ -20,6 +24,7 @@ nav {
   justify-content: center;
   background: #444;
   padding: 1em 0;
+
 }
 
 
@@ -73,6 +78,36 @@ section {
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 
+}
+
+
+.project-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.project-card {
+  margin: 20px;
+  padding: 20px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+
+.project-card:hover {
+  transform: scale(1.05); /* Zoom in on hover */
+}
+
+.project-title {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.project-description {
+  margin-bottom: 20px;
 }
 
 
