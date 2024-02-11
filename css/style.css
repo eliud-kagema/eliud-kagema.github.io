@@ -26,3 +26,33 @@ nav a {
   padding: 0 20px;
   font-weight: bold;
 }
+
+/* Hero */
+.hero {
+  background: url('images/banner.jpg') center/cover no-repeat;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  text-align: center;
+}
+
+section {
+  padding: 2em 0;
+  text-align: center;
+}
+
+.skills,
+.about,
+.projects {
+    background: #f4f4f4;
+}
+
+
+footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1em 0;
+}
