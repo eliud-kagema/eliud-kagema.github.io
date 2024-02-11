@@ -1,28 +1,40 @@
 # Eliud Kagema Portfolio
 
+
+## Project Summary
 Welcome to my portfolio! This repository showcases my skills. projects and a summary of myself.
 
 
-## About Me
 
-I'm Eliud Kagema, a seasoned Python Software Engineer and aspiring Machine Learning and Artificial Intelligence specialist based in Nairobi, Kenya. I hold a Bachelors of Science Degree in Computer Science from Kenyatta University. In this section, you'll find more details about my background, interests, and experience.
-
-
-## Skills
-In the skills section, you can discover the technologies and tools I specialize in. Here's a quick overview:
+## Live Site
+Check out the live site [here](https://eliud-kagema.github.io/).
 
 
+## Description
 
-## Projects
-Explore some of the projects I have worked on. Each project card provides a title, a brief description and a link to the project:
+This is a simple portfolio website built using HTML and CSS.
 
 
-## Contact Me
-If you have any questions, feedback, or just want to get in touch, feel free to use the contact form. I'm always open to new opportunities and collaborations.
+## Project Structure
 
-### Contact Form
-- Your Name
-- Your Email
-- Your Message
+The project is structured as follows:
 
-Click the "Send Message" button, and I'll get back to you as soon as possible.
+- **index.html:** Main HTML file for the portfolio.
+- **style.css:** Main CSS file for styling.
+
+
+## Usage
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/eliud-kagema/eliud-kagema.github.io
+
+2. Open the index.html file in your web browser or use a development server.
+
+
+## Contributing
+If you'd like to contribute to the project, feel free to submit a pull request.
+
+## License
+This project is licensed under the MIT License.
