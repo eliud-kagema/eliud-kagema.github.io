@@ -21,6 +21,7 @@ The project is structured as follows:
 
 - **index.html:** Main HTML file for the portfolio.
 - **style.css:** Main CSS file for styling.
+- **script.js:** JavaScript file for submition and validation of Contact Form.
 
 
 ## Usage
@@ -38,3 +39,7 @@ If you'd like to contribute to the project, feel free to submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
+
+
+## Copyright
+© 2024 Eliud Kagema. All Rights Reserved.
