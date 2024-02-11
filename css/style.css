@@ -43,7 +43,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #3498db;
+  color: #ffbf35;
 }
 
 /* Hero */
@@ -154,10 +154,31 @@ button {
 }
 
 button:hover {
-  background: #2980b9;
+  background: #ffbf35;
 }
 
 
+.split-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.image-section {
+  flex: 1; 
+  padding: 20px;
+}
+
+.image-section img {
+  max-width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-section {
+  flex: 1; 
+  padding: 20px;
+}
 
 footer {
   background: #333;
