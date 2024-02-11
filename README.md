@@ -2,7 +2,7 @@
 
 
 ## Project Summary
-Welcome to my portfolio! This repository showcases my skills. projects and a summary of myself.
+Within this repository, you'll find a showcase of my skills, projects, and a brief overview of yours truly. 
 
 
 
