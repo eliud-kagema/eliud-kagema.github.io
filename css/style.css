@@ -1,0 +1,11 @@
+/* Header CSS */
+header {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1em 0;
+}
+
+.span-col {
+	color: #ffbf35;
+}
